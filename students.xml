@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="students.css"?>
+
+
+<GROUP>
+   <INFO>
+      <GROUPNAME>3-ИАИТ-129</GROUPNAME>
+      <YEAR>2025</YEAR>
+   </INFO>
+
+   <STUDENT>
+      <NAME>Бородулин А.Е.</NAME>
+      <AGE>20</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.7</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Водопьянов Б.О.</NAME>
+      <AGE>20</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Тольятти</CITY>
+      <AVERAGE>4.5</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Еремин Е.Д.</NAME>
+      <AGE>21</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.8</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Железный И.С.</NAME>
+      <AGE>20</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.6</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Зинатуллин Т.Э.</NAME>
+      <AGE>21</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Новокуйбышевск</CITY>
+      <AVERAGE>4.7</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Камалов А.Р.</NAME>
+      <AGE>19</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.4</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Конченко А.В.</NAME>
+      <AGE>20</AGE>
+      <GENDER>Ж</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.5</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Любимова М.А.</NAME>
+      <AGE>19</AGE>
+      <GENDER>Ж</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.9</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Малинина А.А.</NAME>
+      <AGE>20</AGE>
+      <GENDER>Ж</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.6</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Можарова Д.А.</NAME>
+      <AGE>19</AGE>
+      <GENDER>Ж</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.7</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Назин А.В.</NAME>
+      <AGE>21</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.5</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Никульшин Е.А.</NAME>
+      <AGE>20</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.6</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Пивоварова Д.А.</NAME>
+      <AGE>19</AGE>
+      <GENDER>Ж</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.8</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Попов К.С.</NAME>
+      <AGE>20</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.5</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Сельков Н.В.</NAME>
+      <AGE>21</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.7</AVERAGE>
+   </STUDENT>
+
+   <STUDENT>
+      <NAME>Чикалкин А.О.</NAME>
+      <AGE>20</AGE>
+      <GENDER>М</GENDER>
+      <CITY>Самара</CITY>
+      <AVERAGE>4.6</AVERAGE>
+   </STUDENT>
+
+</GROUP>
